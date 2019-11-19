@@ -5,7 +5,7 @@ excerpt: "Mohsen's Curriculum Vitae"
 modified: 2019-11-19T12:34:00+01:00
 ---
 
-| Who | What  |
+| Who                 | What  |
 | --- | -----:|
 | Mohsen<br />born on Agust 16th 19991 | Master's degree<br />in Computer engineering |
 
@@ -75,7 +75,7 @@ I hold a Master's degree in Software Engineering from the University of Bergamo,
 
 ## Master's degree
 
-| Università degli studi di Bergamo<br />Laurea Magistrale in Ingegneria Informatica | <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Padova<br>2010-2015 |
+| Università degli studi di Bergamo<br />Laurea Magistrale in Ingegneria Informatica | <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Bergamo<br>2010-2015 |
 
 - [Thesis](https://github.com/mghalbi/mghalbi.github.io/blob/master/assets/docs/thesis-mohsen-ghalbi-masters-degree.pdf): _Sviluppo di uno Scada basato sulla tecnologia web_ 
 - Final score: 108/110
@@ -85,7 +85,7 @@ I hold a Master's degree in Software Engineering from the University of Bergamo,
 
 ## Bachelor's degree
 
-| Università degli studi di Bergamo<br />Laurea Triennale in Ingegneria Informatica | <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Padova<br>2010-2013 |
+| Università degli studi di Bergamo<br />Laurea Triennale in Ingegneria Informatica | <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Bergamo<br>2010-2013 |
 
 - [Thesis](https://github.com/mghalbi/mghalbi.github.io/blob/master/assets/docs/thesis-mohsen-ghalbi-bachelor-degree.pdf): _PID frazionari_
 - Final score: 100/110
