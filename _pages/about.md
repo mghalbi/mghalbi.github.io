@@ -9,7 +9,7 @@ header:
   caption: "Mohsen loves BTTF's Delorean DMC-12"
 ---
 
-Mohsen is an engineer with a Master's degree in Computer Science Engineering from Italy. :computer:
+Mohsen is an engineer with a Master's degree in Computer Science Engineering from Italy.
 
 et my PGP key: <a href="/assets/mohsen.ghalbi.pubkey.asc" type="application/pgp-keys">mohsen.ghalbi.pubkey.asc</a>
 
