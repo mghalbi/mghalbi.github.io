@@ -43,10 +43,6 @@ modified: 2019-11-19T12:34:00+01:00
 
 **Deep knowledge** of MySQL, PostgreSQL, MongDB.
 
-**Good knowledge** of Riak KV (No-SQL DB).
-
-**Other** MySQL, PostgreSQL.
-
 ## Operating Systems
 
 **Deep knowledge** of Microsoft Windows, Linux.
@@ -56,9 +52,9 @@ modified: 2019-11-19T12:34:00+01:00
 
 I'm a Software Developer and Software Architect at Sorint.lab.
 
-I've experience in Java/JavaEE technologies and I've worked on designing and implementing software solutions in the fields of SQL Databases and E-Commerce SOA integrations.
+I've experience in Java/JavaEE technologies and I've worked on designing and implementing software solutions.
 
-I hold a Master's degree in Software Engineering from the University of Bergamo, IT. My final year project was an essay on the process of creating an ICT Startup.
+I hold a Master's degree in Software Engineering from the University of Bergamo, IT. My final year project was an essay on the process of creating Scada based on web technology.
 
 
 # Work experience
@@ -70,6 +66,21 @@ I hold a Master's degree in Software Engineering from the University of Bergamo,
 | --- | -----:|
 | Sorint.lab | 04/2016 - Today |
 
+## Seriomac
+
+
+|Software engineer  | Bergamo |
+| --- | -----:|
+| Sorint.lab | 01/2016 - 04/2016 |
+
+
+## Panter
+
+
+|Software engineer | Bergamo |
+| --- | -----:|
+| Sorint.lab | 03/2015 - 12/2016 |
+
 
 # Education
 
@@ -80,8 +91,8 @@ I hold a Master's degree in Software Engineering from the University of Bergamo,
 - [Thesis](https://github.com/mghalbi/mghalbi.github.io/blob/master/assets/docs/thesis-mohsen-ghalbi-masters-degree.pdf): _Sviluppo di uno Scada basato sulla tecnologia web_ 
 - Final score: 108/110
 - Classes:
-  - Parallel Calculation, Numerical Processing of Signals, Three-dimensional Data Processing, Big Data, Theoretical Computing, Operational Research, Realtime Systems.
-  - Artificial Intelligence, Temporal Reasoning, Distributed Systems, Information Retrieval, Strategic Management of Organizations, Information Economics.
+  - Operational Research, Models and optimization algorithms, Information theory and transmission, Theoretical Computing, Computer Organization and Design, Cybersecurity, Languages and compilers.
+  - Robotics, microelectronics, Design of electronic systems, Electrical systems, Automatic controls, Identification of models and analysis data.
 
 ## Bachelor's degree
 
@@ -90,9 +101,9 @@ I hold a Master's degree in Software Engineering from the University of Bergamo,
 - [Thesis](https://github.com/mghalbi/mghalbi.github.io/blob/master/assets/docs/thesis-mohsen-ghalbi-bachelor-degree.pdf): _PID frazionari_
 - Final score: 100/110
 - Classes:
-  - Mathematics, Physics, Foundations of Computer Science, Circuits and Logical Systems.
-  - Signals and systems, Foundations of Electronics, Foundations of Automation, Fundamentals of Communication, Electrotechnics, Computer Architecture, Data and algorithms.
-  - Software Engineering, Information Systems, Operating Systems, Data Bases, Computer Networks, Data and Algorithms, Economics, Information History.
+  - Mathematics, Physics, Chemistry.
+  - Signals and systems, Foundations of Electronics, Foundations of Automation, Fundamentals of Communication, Electrotechnics,   Industrial automation, Industrial electronics, Engineering of control system, Industrial production management.
+  - Software Engineering, Operating Systems, Data Bases, Computer Networks, Real-time system, Economics.
 
 ---
 
