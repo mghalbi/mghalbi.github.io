@@ -7,7 +7,7 @@ modified: 2019-11-19T12:34:00+01:00
 
 | Who                 | What  |
 | --- | -----:|
-| Mohsen<br />born on Agust 16th 19991 | Master's degree<br />in Computer engineering |
+| Mohsen<br />born on Agust 16th 19991 | Master's degree in Computer engineering |
 
 {% include toc icon="address-card" %}
 
