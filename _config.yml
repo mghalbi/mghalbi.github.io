@@ -127,6 +127,9 @@ author:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://telegram.me/mghalbi"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mohsen-ghalbi-646479198/"
 
 # Site Footer
 footer:
